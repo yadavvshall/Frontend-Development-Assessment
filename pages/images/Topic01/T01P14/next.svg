@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="70" viewBox="0 0 60 70">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_56" data-name="Rectangle 56" width="10.814" height="19.353" fill="none" stroke="#05222e" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_59" data-name="Rectangle 59" width="12.814" height="21.353" transform="translate(-1 -1)" fill="none" stroke="#05222e" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4809" data-name="Group 4809" transform="translate(-127 -120)">
+    <rect id="Rectangle_55" data-name="Rectangle 55" width="60" height="70" transform="translate(127 120)" fill="#fff"/>
+    <g id="Group_4746" data-name="Group 4746" transform="translate(152 136.301)" clip-path="url(#clip-path)">
+      <path id="Path_30" data-name="Path 30" d="M0,17.078,8.539,8.539,0,0" transform="translate(1.137 1.137)" fill="none" stroke="#05222e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <text id="Next" transform="translate(157 176)" fill="#05222e" font-size="14" font-family="GreycliffCF-DemiBold, Greycliff CF" font-weight="300"><tspan x="-14" y="0">Next</tspan></text>
+    <g id="Group_4751" data-name="Group 4751" transform="translate(152 136.301)" clip-path="url(#clip-path-2)">
+      <path id="Path_32" data-name="Path 32" d="M0,17.078,8.539,8.539,0,0" transform="translate(1.137 1.137)" fill="none" stroke="#05222e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

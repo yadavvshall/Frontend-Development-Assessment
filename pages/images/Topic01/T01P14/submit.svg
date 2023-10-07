@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="38" viewBox="0 0 128 38">
+  <g id="Group_4802" data-name="Group 4802" transform="translate(-688 -107)">
+    <g id="Rectangle_32" data-name="Rectangle 32" transform="translate(688 107)" fill="#05222e" stroke="#05222e" stroke-width="2">
+      <rect width="128" height="38" rx="10" stroke="none"/>
+      <rect x="1" y="1" width="126" height="36" rx="9" fill="none"/>
+    </g>
+    <text id="SUBMIT" transform="translate(724 132)" fill="#fff" font-size="16" font-family="GreycliffCF-Bold, Greycliff CF" font-weight="700"><tspan x="0" y="0">SUBMIT</tspan></text>
+  </g>
+</svg>
